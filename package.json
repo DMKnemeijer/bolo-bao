@@ -2,7 +2,7 @@
   "name": "@bakery/bolo-bao",
   "version": "0.0.1",
   "description": "BREAD endpoint generator for Pinia",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
